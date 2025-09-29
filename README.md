@@ -18,7 +18,7 @@ Now, to run the labs, open the Jupyter notebook on Colab. Navigate to the "Runti
 ### MIT Deep Learning package
 You might notice that inside the labs we install the `mitdeeplearning` python package from the Python Package repository:
 
-`pip install mitdeeplearning`
+`pip install mitdeeplearning comet_ml matplotlib opencv-python scipy`
 
 This package contains convienence functions that we use throughout the course and can be imported like any other Python package.
 
